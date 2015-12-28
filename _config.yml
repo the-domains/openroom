@@ -1,0 +1,28 @@
+name: openroom
+favicon: null
+layout_spectrum: 0.8438592422753572
+typography_spectrum: 0.9386816862970591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6422135031316429
+  lightness: 0.4000281863845885
+  saturation: 0.825189852155745
+  rhythmicContrast: 0.6266603895928711
+purpose: []
